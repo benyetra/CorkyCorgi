@@ -13,13 +13,34 @@
       "filename" : "SilylCorgi.sticker"
     },
     {
-      "filename" : "NerdCorgi-1.sticker"
+      "filename" : "ComputerCorgi.sticker"
     },
     {
       "filename" : "PBCorgi.sticker"
     },
     {
       "filename" : "RainbowCorgi.sticker"
+    },
+    {
+      "filename" : "CannedCorgi.sticker"
+    },
+    {
+      "filename" : "GamerCorgi.sticker"
+    },
+    {
+      "filename" : "LazyCorgi.sticker"
+    },
+    {
+      "filename" : "LinkCorgi.sticker"
+    },
+    {
+      "filename" : "PeekCorgi.sticker"
+    },
+    {
+      "filename" : "PilgrimCorgi.sticker"
+    },
+    {
+      "filename" : "ShyCorgi.sticker"
     },
     {
       "filename" : "BananaCorgi.sticker"
@@ -46,7 +67,7 @@
       "filename" : "LeafCorgi.sticker"
     },
     {
-      "filename" : "hoodiecorgi-1.sticker"
+      "filename" : "HoodieCorgi.sticker"
     },
     {
       "filename" : "SneakCorgi.sticker"
@@ -76,19 +97,16 @@
       "filename" : "GuiltyCorgi.sticker"
     },
     {
-      "filename" : "trooperCorgi-1.sticker"
+      "filename" : "EmpireCorgi.sticker"
     },
     {
-      "filename" : "surpremecorgi.sticker"
-    },
-    {
-      "filename" : "ladiesCorgi.sticker"
+      "filename" : "LadiesCorgi.sticker"
     },
     {
       "filename" : "HelpingHandCorgi.sticker"
     },
     {
-      "filename" : "KingCorgi-1.sticker"
+      "filename" : "KingCorgi.sticker"
     },
     {
       "filename" : "MarvelCorgi.sticker"
@@ -118,7 +136,10 @@
       "filename" : "FrozenCorgi.sticker"
     },
     {
-      "filename" : "WinkCorgi-1.sticker"
+      "filename" : "SurpremeCorgi.sticker"
+    },
+    {
+      "filename" : "WinkCorgi.sticker"
     }
   ],
   "info" : {
